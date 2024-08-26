@@ -1,0 +1,38 @@
+* {
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+}
+
+#burger {
+    border-radius: 10%;
+}
+
+h1 {
+
+    color: chocolate;
+    font-size: 50px;
+    padding: 10px;
+   
+}
+h2{
+    color: chocolate;
+    
+}
+table {
+    color: white;
+    width: 100%;
+    text-align: center;
+    border-color: white;
+    border-collapse: collapse;
+    font-family: cursive;
+
+}
+p{
+    color: white;
+    font-family: cursive;
+}
+article{
+    color: white;
+    font-family: cursive;
+}
